@@ -1,4 +1,4 @@
-package Java_keywords;
+package Hello_world_java;
 
 public class lab007_comments
  {
