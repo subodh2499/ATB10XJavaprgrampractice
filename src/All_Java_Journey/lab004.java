@@ -1,9 +1,10 @@
-package Hello_world_java;
+package All_Java_Journey;
 
-public class Lab005 {
+public class lab004
+{
     public static void main(String[] args) {
-        int a=850;
-        int b=50;
+        int a=10;
+        int b=30;
         System.out.println(a+b);
     }
 }

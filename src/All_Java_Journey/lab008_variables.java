@@ -1,4 +1,4 @@
-package Hello_world_java;
+package All_Java_Journey;
 
 public class lab008_variables
 {

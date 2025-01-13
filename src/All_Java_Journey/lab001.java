@@ -1,4 +1,4 @@
-package Hello_world_java;
+package All_Java_Journey;
 
 public class lab001 {
     public static void main(String[] args) {
