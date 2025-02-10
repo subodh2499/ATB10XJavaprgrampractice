@@ -1,6 +1,6 @@
 package ex14_string_all;
 
-public class lab88_functions {
+public class lab89_functions {
     public static void main(String[] args) {
         String b1="ashok chavan";
         System.out.println(b1.length());
